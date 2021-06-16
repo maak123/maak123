@@ -5,12 +5,9 @@
 #
 I am Amila ❤️,who is very
 passionate about web application
-development and application security since I
-was a kid. I have 5+ years of proven
-experience in this field. I am very interested
-in software development, mobile application
-and penetration testing ✔️. Apart from that,
-I'm developing applications and do graphics
+development Currently I am working as a Software Engineer at Inova IT Systems Pvt Ltd. 
+My current role requires me to take ownership of many important projects that involve the management of critical software components for both the development and deployment of them. Along with this, i also actively involved in writing code for various automation tools. In addition, i would like to learn and improve my coding skills ✔️. Apart from that,
+I'm developing applications
 as a Freelancer.🎮 Love to explore new things
 every day as a hobby.🥺
 #
@@ -48,10 +45,10 @@ every day as a hobby.🥺
  
  ### Follow Me On
  
-[![](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Akalanka1337/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![](https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akalanka1337/)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akalankauk/)
+[![](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009350404621/)
+<!-- [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](#) -->
+[![](https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amila_kr/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amilakeerthi/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](#)
 
 <!--

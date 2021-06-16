@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif">
+  <img src="https://i.pinimg.com/originals/89/27/c0/8927c0361caef2945bf264d2852d7ceb.gif">
 </p>
 
 #

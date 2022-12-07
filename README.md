@@ -5,7 +5,7 @@
 #
 I am Amila ❤️,who is very
 passionate about web application
-development Currently I am working as a Software Engineer at Inova IT Systems Pvt Ltd. 
+development Currently I am working as a Senior Software Engineer at Camms. 
 My current role requires me to take ownership of many important projects that involve the management of critical software components for both the development and deployment of them. Along with this, i also actively involved in writing code for various automation tools. In addition, i would like to learn and improve my coding skills ✔️. Apart from that,
 I'm developing applications
 as a Freelancer.🎮 Love to explore new things
